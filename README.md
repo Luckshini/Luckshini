@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding languages, problem-solving, cybersecurity and software development.
 - 📫 How to reach me luckshininarainen@gmail.com.
 -  I have worked on multiple software and web-based projects.
--  
+  
 ~ 🌱 Skills & Technologies
 💻 Programming Languages
 - Python
@@ -35,11 +35,11 @@
 - Basic database design and integration
   
 📂 Projects
-~ I have worked on several projects involving:
-~ Full-stack web development using Laravel and React
-~ Real-time applications powered by Firebase
-~ API integration using JSON
-~ Responsive UI design with Bootstrap
+- I have worked on several projects involving:
+- Full-stack web development using Laravel and React
+- Real-time applications powered by Firebase
+- API integration using JSON
+- Responsive UI design with Bootstrap
 
 <!---
 Luckshini/Luckshini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
