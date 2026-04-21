@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Luckshini Narainen.
--  💞️ I'm a computer science student.
+- 💞️ I'm a computer science student.
 - 👀 I’m interested in coding languages, problem-solving, cybersecurity and software development.
-- 🌱 I’m currently learning python, C++, java, php, html, css.
 - 📫 How to reach me luckshininarainen@gmail.com.
 -  I have worked on multiple software and web-based projects.
 -  
-~  Skills & Technologies
+~ 🌱 Skills & Technologies
 💻 Programming Languages
 - Python
 - JavaScript
